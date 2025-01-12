@@ -23,4 +23,4 @@ To build the application for production, follow these steps:
 ## Testing the Application
 To test the application, follow these steps:
 1. Ensure that the application is running by following the steps in the "Launching the Application" section.
-2. Open your browser and navigate to `http://localhost:1234` to interact with the application and verify its functionality.
+2. Open your browser, navigate to `http://localhost:1234` and open the console to verify its functionality.
