@@ -1,8 +1,7 @@
-# progetto-typescript-start2impact
-Created with CodeSandbox
+# Bonny - Progetto typescript
 
 ## Description
-This project is a starter template for building applications using TypeScript and Parcel. It includes a basic setup with TypeScript configuration, Parcel bundler, and example code for a simple application.
+This project is a Typescript case study. It includes a basic setup with TypeScript configuration, Parcel bundler, and example code for a simple application.
 
 ## Prerequisites
 To run the application locally, you need to have the following installed on your machine:
